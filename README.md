@@ -13,5 +13,5 @@
 
 #### Go to the repository folder open your terminal and type "npm i"
 
-####Type npm test and Ta daaa!
+#### Type npm test and Ta daaa!
 
