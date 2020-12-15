@@ -5,7 +5,7 @@
 
 # Dependencies
 
-## Make sure you have [git](https://git-scm.com/downloads) and [node](https://nodejs.org/en/) and npm and git installed on your machine
+## Make sure you have [git](https://git-scm.com/downloads) and [node](https://nodejs.org/en/) and npm installed on your machine
 
 # How to use
 
