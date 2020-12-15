@@ -1,0 +1,23 @@
+{
+  "name": "do-while-2020-tdd2",
+  "version": "1.0.0",
+  "description": "TDD with 'chai' in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 2000 --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Willnapolitano/do-while-2020-TDD.git"
+  },
+  "author": "José Wilson Barbosa de Sousa Junior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Willnapolitano/do-while-2020-TDD/issues"
+  },
+  "homepage": "https://github.com/Willnapolitano/do-while-2020-TDD#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
